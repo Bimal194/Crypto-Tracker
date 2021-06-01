@@ -8,4 +8,5 @@
 
 -> We will get all of the data from a public API. 
 
-![gif](https://user-images.githubusercontent.com/69100830/120325339-2baddf00-c305-11eb-8888-cd956024329c.gif)
+![gif](https://user-images.githubusercontent.com/69100830/120326240-256c3280-c306-11eb-9087-79a01a427dbf.gif)
+
